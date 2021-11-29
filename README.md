@@ -1,17 +1,14 @@
 # Markdown-web-app
-A ReactJS web app to facilitate the creation of cool github readme.me with the use of community built resources and markdown
-
-
-<p align="right">[<a href="#top">back to top</a>]</p>
-
-# Exeter's Entrepeneurs
 
 <p align="center">
   <img src="DocumentationGif.GIF" alt="A gif of the website's landing page" />
 </p>
-  
+
+
+
 # Description
-A Rebranding of the Exeter's Entrepeneur's Website.
+A ReactJS web app to facilitate the creation of cool github readme.me with the use of community built resources and markdown.
+
 
 
 # Live Demo
@@ -19,7 +16,7 @@ A live version of this repository can be found in the following link:
 
 <br>
 
-https://exeter.netlify.app/
+--- link ---
 
 
 
@@ -27,7 +24,11 @@ https://exeter.netlify.app/
 
 React | React-Router-Dom-V6 | JavaScript | HTML | CSS | SASS | Netlify | Styled Components | Bootstrap | Snazzy Maps | Google Maps API
 
+
+
 <p align="right">[<a href="#top">back to top</a>]</p>
+
+
 
 # Contacts
 
@@ -39,23 +40,6 @@ linkedIn: https://www.linkedin.com/in/joao-prates-az/
 <br>
 github: https://github.com/JayPrates
 
-
-## Michael Dixon
-
-email: michaelmail7@gmail.com
-<br>
-linkedIn: https://www.linkedin.com/in/michael-dixon-404/
-<br>
-github: https://github.com/michaelcdixon
-
-## Nuno Gonçalves
-
-email: goncalvesnuno00@gmail.com
-<br>
-linkedIn: https://www.linkedin.com/
-<br>
-github: https://github.com/Nunofgg
-
 ## Paulo Santos
 
 email: paulo.jorge.ngs@gmail.com
@@ -63,21 +47,6 @@ email: paulo.jorge.ngs@gmail.com
 linkedIn: www.linkedin.com/in/paulo-j-santos
 <br>
 github: https://github.com/Jorge-Neves
-
-## Tiago Silva
-email: https://www.linkedin.com/in/tiago98s/
-<br>
-linkedIn: https://www.linkedin.com/
-<br>
-Portfolio: https://tiagosilvaportfolio.squarespace.com/
-
-## Zach Dive
-
-email: zjhd201@exeter.ac.uk
-<br>
-linkedIn: https://linkedin.com/in/zacharydive
-<br>
-github: https://github.com/zachdive
 
 <p align="right">[<a href="#top">back to top</a>]</p>
 
